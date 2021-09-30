@@ -5,3 +5,6 @@ Course site: https://www.coursera.org/learn/html-css-javascript-for-web-develope
 
 Week 2 assignment:
 https://gitmartin.github.io/coursera-js-course/module2-solution/
+
+Week 3 assignment:
+https://gitmartin.github.io/coursera-js-course/module3-solution/
