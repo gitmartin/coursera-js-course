@@ -8,3 +8,6 @@ https://gitmartin.github.io/coursera-js-course/module2-solution/
 
 Week 3 assignment:
 https://gitmartin.github.io/coursera-js-course/module3-solution/
+
+Week 4 assignment:
+https://gitmartin.github.io/coursera-js-course/module4-solution/
