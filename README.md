@@ -11,3 +11,6 @@ https://gitmartin.github.io/coursera-js-course/module3-solution/
 
 Week 4 assignment:
 https://gitmartin.github.io/coursera-js-course/module4-solution/
+
+Week 5 assignment:
+https://gitmartin.github.io/coursera-js-course/module5-solution/
